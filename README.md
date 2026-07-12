@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Kumkumsahu003
 
 ## 🚀 About Me
-Passionate developer exploring web technologies, AI/ML, and full-stack development. Currently building projects in HTML/CSS, Java, and AI-powered applications.
+Passionate developer exploring web technologies, and Java full-stack development. Currently building projects in HTML/CSS, Java, and JavaScript.
 
-- 🔭 I’m currently working on improving my skills in **Web Development** and **Artificial Intelligence**.
+- 🔭 I’m currently working on improving my skills in **Web Development** and **Java**.
 - 🌱 Learning **Machine Learning**, **Modern JavaScript frameworks**, and **Backend Development**.
 - 👯 Looking to collaborate on interesting open-source projects.
 - 📫 Reach me at: [kumkumsahu365@gmail.com] or via GitHub Issues.
@@ -23,7 +23,7 @@ Passionate developer exploring web technologies, AI/ML, and full-stack developme
 **Tools & Others:**
 - Git & GitHub
 - Eclips
--Vs code
+- Vs code
 
 ---
 
@@ -53,12 +53,10 @@ Platform connecting workers and seekers (in progress).
 
 ![Kumkumsahu003's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kumkumsahu003&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumkumsahu003&layout=compact&theme=radical)
-
 ---
 
 ## 🌐 Connect with Me
-- GitHub: [@Kumkumsahu003](https://github.com/Kumkumsahu003)
+- GitHub:(https://github.com/Kumkumsahu003)
 
 ---
 
