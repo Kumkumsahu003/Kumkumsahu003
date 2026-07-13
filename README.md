@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kumkumsahu003
+# Hi there, I'm Kumkum Sahu 👋
 
 ## 🚀 About Me
 Passionate developer exploring web technologies, and Java full-stack development. Currently building projects in HTML/CSS, Java, and JavaScript.
